@@ -4,7 +4,8 @@ metadata:
   name: technical-writing-resources
   title: Technical writing resources
   description: This README consists of technical writing resources that I've found useful.
-  tags: Markdown
+  tags:
+    - Markdown
   annotations:
     github.com/project-slug: josh-wong/technical-writing-resources
     backstage.io/techdocs-ref: dir:.
