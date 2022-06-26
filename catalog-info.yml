@@ -10,6 +10,6 @@ metadata:
     github.com/project-slug: josh-wong/technical-writing-resources
     backstage.io/techdocs-ref: dir:.
 spec:
-  type: docs
+  type: references
   lifecycle: production
   owner: josh-wong
