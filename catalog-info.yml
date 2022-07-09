@@ -2,7 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: technical-writing-resources
-  title: Technical writing resources
+  title: technical-writing-resources
   description: This README consists of technical writing resources that I've found useful.
   tags:
     - markdown
